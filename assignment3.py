@@ -1,6 +1,6 @@
 data=[]
 
-for i in range (0,4):
+for i in range (0,5):
     dataValue={"Name":"","DOB":""}
     dataValue["Name"]=str(input("Enter the Name:"))
     dataValue["DOB"]=str(input("Enter the DOB in yyyy/mm/dd format:"))

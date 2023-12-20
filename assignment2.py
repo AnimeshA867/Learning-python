@@ -2,7 +2,7 @@ import requests;
 import json
 
 def info(city,temp):
-    # Something something
+ 
     if temp>40:
       print("Too hot don't go.");
     elif temp>=30:
